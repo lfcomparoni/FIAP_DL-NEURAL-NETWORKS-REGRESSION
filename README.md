@@ -6,7 +6,7 @@ Esse projeto tem como objetivo fazer a classificação de tendencia de compra e 
 • VALE3 – Vale do Rio Doce  
 • PETR4 – Petrobras  
 • BBAS3 – Banco do Brasil  
-• CSNA3 - Companhia Siderúrgica Nacional  
+• CSNA3 - Companhia Siderúrgica Nacional    
 
 Data:
 ------------
